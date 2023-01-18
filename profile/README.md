@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ctfguide-tech/.github/main/img/CTFGuide.png" width="1728" height="864" alt="CTFGuide" />
+  <img src="https://raw.githubusercontent.com/ctfguide-tech/.github/main/img/CTFGuide.png" width="864" height="432" alt="CTFGuide" />
 </p>
 
 # CTFGuide
