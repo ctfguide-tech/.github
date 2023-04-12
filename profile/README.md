@@ -1,7 +1,4 @@
 
-
-# CTFGuide
-
 <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1411444807008980997/1680835179/1500x500" style="width:100%" alt="CTFGuide" />
 </p>
